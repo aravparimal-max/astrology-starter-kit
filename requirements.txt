@@ -1,0 +1,4 @@
+pyswisseph
+transformers
+sentencepiece
+flask
